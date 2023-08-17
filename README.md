@@ -9,7 +9,7 @@
 
 - 📫 Reach me **yadavlav571@gmail.com**
  
-## 🌐 Connect with me :
+### 🌐 Connect with me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lav-yadav-1055a5211)
 
 <p align="left">
