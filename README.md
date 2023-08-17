@@ -1,3 +1,23 @@
+<h1 align="center">Hi 👋, I'm Lav Yadav</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🔭 I’m currently working on **MERN Stack Developement**
+
+- 🌱 I’m currently learning **ReactJs**
+
+- 📫 How to reach me **yadavlav571@gmail.com**
+
+- 📄 Know about my experiences [file:///E:/Lav_Yadav_Resume.pdf](file:///E:/Lav_Yadav_Resume.pdf)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavlav7978&show_icons=true&locale=en&layout=compact" alt="yadavlav7978" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavlav7978&show_icons=true&locale=en" alt="yadavlav7978" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavlav7978&" alt="yadavlav7978" /></p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lav-yadav-1055a5211) 
