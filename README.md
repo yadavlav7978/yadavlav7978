@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lav Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer </h3>
 
 - 🔭 I’m currently working on **MERN Stack Developement**
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 📫 How to reach me **yadavlav571@gmail.com**
+- 📫 Reach me **yadavlav571@gmail.com**
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lav-yadav-1055a5211) 
