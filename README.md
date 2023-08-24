@@ -34,7 +34,7 @@
 
 
 <!-- github stats -->
-<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavlav7978&show_icons=true&locale=en&theme=tokyonight" alt="yadavlav7978" /></p>
+<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavlav7978&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true" alt="yadavlav7978" /></p>
 
 <!-- most used languages -->
 <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavlav7978&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yadavlav7978" /></p>
