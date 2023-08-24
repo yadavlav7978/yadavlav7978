@@ -33,9 +33,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yadavlav7978&theme=radical&hide_border=false)<br/>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavlav7978&show_icons=true&locale=en" alt="yadavlav7978" /></p><br/>
+<!-- github stats -->
+<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavlav7978&show_icons=true&locale=en&theme=tokyonight" alt="yadavlav7978" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavlav7978&show_icons=true&locale=en&layout=compact" alt="yadavlav7978" /></p><br/>
+<!-- most used languages -->
+<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavlav7978&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yadavlav7978" /></p>
 
 
 
