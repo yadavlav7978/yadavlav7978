@@ -1,11 +1,17 @@
+[![MasterHead](https://camo.githubusercontent.com/04b3af1734c378d7eb20690ca6ce758b5a3fff95abcce7958d3fac32030bbe29/68747470733a2f2f692e6962622e636f2f424c357363475a2f302d3062707933352d4c6336722d41647669762d4c2e676966)]()
+
+
 <h1 align="center">Hi 👋, I'm Lav Yadav</h1>
-<h3 align="center">A Passionate Frontend Developer </h3>
+<h3 align="center">A Passionate Frontend Developer , Problem Solver </h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 - 🔭 I’m currently working on **MERN Stack Developement**
 
 - 🌱 I’m currently learning **ReactJs**
  
- - 💬 Ask me about :  **Data Structures And Algorithms , Competitive Programming , Frontend Developement**
+ - 💬 Ask me about : **DSA , React , Frontend Developement**
 
 - 📫 Reach me **yadavlav571@gmail.com**
  
@@ -52,6 +58,5 @@
 [![](https://visitcount.itsvg.in/api?id=yadavlav7978&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
