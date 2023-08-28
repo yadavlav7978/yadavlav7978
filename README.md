@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
  
- - 💬 Ask me about : **DSA , React , Frontend Developement**
+ - 💬 Ask me about : ** C++, DSA , React , Frontend Developement**
 
 - 📫 Reach me **yadavlav571@gmail.com**
  
@@ -22,7 +22,7 @@
 <a href="https://instagram.com/lavyadv2001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lavyadv2001" height="30" width="40" /></a>
 
 
-### 💬 Coding Profile :
+### 📊 Coding Profile :
 <p align="left">
 <a href="https://www.leetcode.com/lav_123" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lav_123" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yadavlav7978" target="_blank"><img align="center" src="Images/icons8-codechef-100.png" alt="yadavlav7978" height="40" width="40" /></a>
