@@ -16,10 +16,12 @@
 - 📫 Reach me **yadavlav571@gmail.com**
  
 ### 🌐 Connect with me :
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lav-yadav-1055a5211)
-
-<a href="https://instagram.com/lavyadv2001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lavyadv2001" height="30" width="40" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/lav-yadav-1055a5211" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="90" /></a>
+<a href="https://instagram.com/lavyadv2001" target="_blank">
+ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lavyadv2001" height="30" width="60" /></a>
+</p>
 
 
 ### 🧮 Coding Profile :
