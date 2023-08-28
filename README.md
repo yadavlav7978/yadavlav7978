@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
  
- - 💬 Ask me about : ** C++, DSA , React , Frontend Developement**
+ - 💬 Ask me about : **C++, DSA , React , Frontend Developement**
 
 - 📫 Reach me **yadavlav571@gmail.com**
  
