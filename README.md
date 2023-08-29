@@ -40,19 +40,17 @@
 
 
 <!-- github stats -->
-<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavlav7978&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true" alt="yadavlav7978" /></p>
+![Lav GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavlav7978&show_icons=true&theme=onedark&bg_color=00000000)
+
 
 <!-- most used languages -->
-<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavlav7978&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yadavlav7978" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavlav7978&theme=onedark&bg_color=00000000)
 
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=yadavlav7978&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=yadavlav7978&limit=5&theme=onedark&bg_color=00000000&combine_all_yearly_contributions=true)
 
 
 ### ✍️ Random Dev Quote
