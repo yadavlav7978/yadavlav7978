@@ -26,7 +26,7 @@
 
 ## 🧮 Coding Profile Link :
 <p align="left">
-<a href="https://www.leetcode.com/lav_123" target="_blank"><img align="center" src="Images/Leetcode7.png" alt="lav_123" height="60" width="100" /></a>
+<a href="https://www.leetcode.com/lav_123" target="_blank"><img align="center" src="Images/Leetcode7.png" alt="lav_123" height="57" width="130" /></a>
 <a href="https://www.codechef.com/users/yadavlav7978" target="_blank"><img align="center" src="Images/Codechef(new)_logo.svg.png" alt="yadavlav7978" height="50" width="100" /></a>
 </p>
 
