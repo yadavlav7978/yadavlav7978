@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Lav Yadav</h1>
-<h3 align="center">A Passionate Frontend Developer , Problem Solver </h3>
+<h3 align="center">A Passionate Full Stack Developer , Problem Solver </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
