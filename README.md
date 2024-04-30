@@ -1,17 +1,15 @@
 <!--[![MasterHead](https://camo.githubusercontent.com/04b3af1734c378d7eb20690ca6ce758b5a3fff95abcce7958d3fac32030bbe29/68747470733a2f2f692e6962622e636f2f424c357363475a2f302d3062707933352d4c6336722d41647669762d4c2e676966)]()-->
 
 
-<h1 align="center">Hi 👋, I'm Lav Yadav</h1>
-<h3 align="center">A Passionate Full Stack Developer , Problem Solver </h3>
-<!--
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
--->
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-- 🔭 I’m currently working on **MERN Stack Development**
- 
- - 💬 Ask me about : **C++, DSA , React.js , MERN Stack Development**
+## 🚀 About Me
 
-- 📫 Reach me **yadavlav571@gmail.com**
+🎓 I am Lav Yadav, a **Full Stack Web Developer** (specializing in **MERN Applications**).I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2024.
+
+👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others.
+👨‍💻 I am really enthusiastic about learning new technology.
+
  
 ## 🌐 Connect with me :
 <p align="left">
