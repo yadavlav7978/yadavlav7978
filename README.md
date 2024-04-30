@@ -12,8 +12,7 @@
 
 📝 I enjoy coding, building websites, and solving real-world problems. I am really enthusiastic about learning new technology and learning new skills.
 
-🎸 Apart from tech stuff, I like trying new things and learning new skills. Cricket is my favorite hobby. I love playing it and watching games. When I want to 
-   relax, I enjoy watching movies and web series.
+🎸 Apart from tech stuff, I like trying new things and learning new skills. Cricket is my favorite hobby. I love playing it and watching games. I also enjoy watching movies and web series.
 
 🤝 Feel free to contact me at yadavlav571@gmail.com
 
