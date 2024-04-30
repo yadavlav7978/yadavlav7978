@@ -8,8 +8,6 @@
 
 
 - 🔭 I’m currently working on **MERN Stack Development**
-
-- 🌱 I’m currently working on **MERN stack Project**
  
  - 💬 Ask me about : **C++, DSA , React.js , MERN Stack Development**
 
