@@ -5,9 +5,11 @@
 
 ## 🚀 About Me
 
-🎓 I am Lav Yadav, a **Full Stack Web Developer** (specializing in **MERN Applications**).I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2024.
+🎓 I am Lav Yadav, a **Full Stack Web Developer** (specializing in **MERN Stacks**).I am also Pursuing my Bachelor in **Computer Science & Engineering** and will 
+    graduate in mid-2024.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others.
+👨‍💻 I enjoy coding , building websites, and creating apps using the MERN stack.
+
 👨‍💻 I am really enthusiastic about learning new technology.
 
  
