@@ -7,7 +7,7 @@
 
 🎓 I am Lav Yadav, a **Full Stack Web Developer** (specializing in **MERN Stacks**), Currently pursuing a Bachelor's degree in **Computer Science and Engineering**, and graduate in mid-2024.
 
- 👨‍💻 As a full-stack developer, I have proficiency in building MERN stack applications, handling both front-end and back-end tasks. I have a strong understanding of data structures and algorithms, having solved over 750 problems on LeetCode and ranking in the top 5% of coders with a rating of 1893. 
+ 👨‍💻 As a full-stack developer, I have proficiency in building MERN stack applications, handling both front-end and back-end tasks. I have a strong understanding of data structures and algorithms, having solved over 750 problems on LeetCode and ranking in the top 5% of coders with a rating of 1893 and a 3-star coder at CodeChef.
 
 📝 I enjoy coding, building websites, and solving real-world problems. I am enthusiastic about learning new technologies and skills. 
 
