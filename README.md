@@ -7,7 +7,7 @@
 
 🎓 I am Lav Yadav, a **Java Full Stack Web Developer**,  currently working as a Specialist Programmer at Infosys.
 
- 👨‍💻 As a full-stack developer, I have proficiency in building Java Full Stack applications, handling both front-end and back-end tasks. I have a strong understanding of data structures and algorithms, having solved over 750 problems on LeetCode and ranking in the top 5% of coders with a rating of 1893 and a 3-star coder at CodeChef.
+ 👨‍💻 As a full-stack developer, I have proficiency in building Java Full Stack applications, handling both front-end and back-end tasks. I have a strong understanding of data structures and algorithms, having solved over 900+ problems on LeetCode and ranking in the top 5% of coders with a rating of 1893 .
 
 📝 I enjoy coding, building websites, and solving real-world problems. I am enthusiastic about learning new technologies and skills. 
 
