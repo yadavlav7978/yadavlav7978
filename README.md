@@ -55,27 +55,6 @@
 
 
 
-
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=yadavlav7978&theme=radical&hide_border=false)<br/>
-
-
-<!-- github stats -->
-![Lav GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavlav7978&show_icons=true&theme=onedark&bg_color=00000000)
-
-
-<!-- most used languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavlav7978&theme=onedark&bg_color=00000000)
-
-
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=yadavlav7978&limit=5&theme=onedark&bg_color=00000000&combine_all_yearly_contributions=true)
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
