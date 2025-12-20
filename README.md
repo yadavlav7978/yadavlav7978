@@ -4,10 +4,11 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 🎓 I am Lav Yadav, a **Java Full Stack Web Developer**,  currently working as a Specialist Programmer at Infosys.
-
- 👨‍💻 As a full-stack developer, I have proficiency in building Java Full Stack applications, handling both front-end and back-end tasks. I have a strong understanding of data structures and algorithms, having solved over 900+ problems on LeetCode and ranking in the top 5% of coders with a rating of 1893 .
-
-📝 I enjoy coding, building websites, and solving real-world problems. I am enthusiastic about learning new technologies and skills. 
+👨‍💻 I have strong experience in building Java full-stack applications using Spring Boot and Angular, with hands-on exposure to microservices architecture and RESTful APIs.
+🧠 I have a solid understanding of Data Structures & Algorithms and system design, having solved 900+ problems on LeetCode.
+📝 Experienced in using Kafka for distributed messaging and real-time data processing, supporting high-throughput applications
+⚙️ Hands-on expertise in containerization with Docker, Implemented CI/CD pipelines using Jenkins and GitHub Actions, driving efficient and automated software delivery.
+🚀 Currently, I am exploring and building real-world use cases in Agentic AI and Generative AI, working with technologies such as MCP, Google ADK (A2A), LangGraph, LangChain, and RAG pipelines.
 
 🤝 Feel free to contact me at yadavlav571@gmail.com
 
