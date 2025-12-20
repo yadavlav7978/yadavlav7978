@@ -5,9 +5,9 @@
 
 🎓 I am Lav Yadav, a **Java Full Stack Web Developer**,  currently working as a Specialist Programmer at Infosys.
 
-👨‍💻 I have strong experience in building Java full-stack applications using Spring Boot and Angular, with hands-on exposure to microservices architecture and RESTful APIs.
+👨‍💻 I have strong expertise in building Java full-stack applications using Spring Boot and Angular, with hands-on exposure to microservices architecture and RESTful APIs.
 
-🧠 I have a solid understanding of Data Structures & Algorithms and system design, having solved 900+ problems on LeetCode.
+🧠 I have a solid understanding of Data Structures & Algorithms and System Design, having solved 900+ problems on LeetCode.
 
 📝 Experienced in using Kafka for distributed messaging and real-time data processing, supporting high-throughput applications.
 
