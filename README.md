@@ -3,8 +3,6 @@
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## 🚀 About Me
-
 🎓 I am Lav Yadav, a **Java Full Stack Web Developer**,  currently working as a Specialist Programmer at Infosys.
 
  👨‍💻 As a full-stack developer, I have proficiency in building Java Full Stack applications, handling both front-end and back-end tasks. I have a strong understanding of data structures and algorithms, having solved over 900+ problems on LeetCode and ranking in the top 5% of coders with a rating of 1893 .
