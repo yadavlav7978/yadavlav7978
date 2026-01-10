@@ -3,7 +3,7 @@
 
 <h1> Hi, I'm Lav Yadav 👋 </h1>
 
-- I am a **Java Full Stack Web Developer**,  currently working as a **Specialist Programmer at Infosys**.
+- I am a **Full Stack Web Developer**,  currently working as a **Specialist Programmer at Infosys**.
 
 - I have strong expertise in building Java full-stack applications using Spring Boot and Angular, with hands-on experience in microservices architecture and RESTful APIs.
 
