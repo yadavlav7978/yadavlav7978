@@ -3,17 +3,17 @@
 
 <h1> Hi, I'm Lav Yadav 👋 </h1>
 
-- I am a **Full Stack Web Developer**,  currently working as a **Specialist Programmer at Infosys**.
+- Software Engineer with 2+ years of experience, currently working as a Specialist Programmer at Infosys.
 
-- I have strong expertise in building Java full-stack applications using Spring Boot and Angular, with hands-on experience in microservices architecture and RESTful APIs.
+- I have strong expertise in building enterprise full-stack applications using Java, Spring Boot, Angular, REST APIs, and Microservices.
 
-- I have a solid understanding of Data Structures & Algorithms and System Design, having solved 900+ problems on LeetCode.
+- I have a solid understanding of Data Structures & Algorithms and System Design, having solved 1000+ problems on LeetCode.
 
 - Experienced in using Kafka for distributed messaging and real-time data processing, supporting high-throughput applications.
 
 - Hands-on expertise in containerization with Docker, Implemented CI/CD pipelines using Jenkins and GitHub Actions, driving efficient and automated software delivery.
 
-- Currently, I am exploring and building real-world use cases in Agentic AI and Generative AI, working with technologies such as MCP, Google ADK (A2A), LangGraph, LangChain, and RAG pipelines.
+- Hands-on experience in building intelligent AI applications using modern GenAI and Agentic AI technologies, including LangChain, LangGraph, Retrieval-Augmented Generation (RAG), Google ADK, and Model Context Protocol (MCP). 
 
 - Feel free to contact me at yadavlav571@gmail.com
 
