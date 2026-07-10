@@ -3,7 +3,7 @@
 
 <h1> Hi, I'm Lav Yadav 👋 </h1>
 
-- Software Engineer with 2+ years of experience, currently working as a Specialist Programmer at Infosys.
+- Software Developer with 2+ years of experience, currently working as a Specialist Programmer at Infosys.
 
 - I have strong expertise in building enterprise full-stack applications using Java, Spring Boot, Angular, REST APIs, and Microservices.
 
