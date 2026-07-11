@@ -5,7 +5,7 @@
 
 - Software Developer with 2+ years of experience, currently working as a Specialist Programmer at Infosys.
 
-- I have strong expertise in building enterprise full-stack applications using Java, Spring Boot, Angular, REST APIs, and Microservices.
+- I have strong expertise in building enterprise full-stack applications using Java, Spring Boot, Angular, React, REST APIs, and Microservices.
 
 - I have a solid understanding of Data Structures & Algorithms and System Design, having solved 1000+ problems on LeetCode.
 
